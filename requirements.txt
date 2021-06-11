@@ -4,7 +4,7 @@ Webpack (imports, exports)
     Eslint
     2 mods
         -dev
-        dev server, sourceMaps, Eslint, not minifed js & css
+        dev server, sourceMaps, Eslint, not minified js & css
         -prod
         Minified code
 git
